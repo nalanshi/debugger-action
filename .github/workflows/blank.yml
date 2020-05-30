@@ -1,0 +1,2 @@
+- name: Setup Debug Session
+  uses: P3TERX/debugger-action@master
